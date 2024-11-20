@@ -24,10 +24,7 @@ public class Circle {
     // Override phương thức toString()
     @Override
     public String toString() {
-        return "Circle{" +
-                "radius=" + radius +
-                ", area=" + getArea() +
-                '}';
+        return "Circle{radius=" + radius +", area=" + getArea() +"}";
     }
 }
 
