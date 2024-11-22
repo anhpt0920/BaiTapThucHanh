@@ -1,4 +1,4 @@
-package bai1;
+package Bai1;
 import java.util.Scanner;
 public class Person {
     private String name;
